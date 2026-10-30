@@ -1,4 +1,4 @@
-# 🚀 Enterprise Java Development & Microservices Portfolio
+# 🚀# ☕ Core Java Projects
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F80000&center=true&vCenter=true&width=600&lines=Core+Java+%26+OOP+Architecture;5%2B+Production-Ready+Backend+Systems;Collections+%7C+Multi-threading+%7C+JDBC;Built+by+Upendra+Sai+Chaturvedula" alt="Typing SVG" />
